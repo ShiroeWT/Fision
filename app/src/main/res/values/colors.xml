@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <color name="black">#FF000000</color>
+    <color name="white">#FFFFFFFF</color>
+    <color name="dark_grey">#565657</color>
+    <color name="creme">#F5F0CD</color>
+    <color name="light_yellow">#FADA7A</color>
+    <color name="orange">#FF6F30</color>
+    <color name="bounding_box_color">#234567</color>
+
+    <color name="colorAccent">#272727</color>
+    
+    <color name="main_background">#F2F5F8</color>
+    <color name="background">#F1E9CE</color>
+    <color name="background_light">#56F1E9CE</color>
+    <color name="card1">#D4CBE5</color>
+    <color name="card2">#7ADCCF</color>
+    <color name="card3">#F7C59F</color>
+    <color name="card4">#B8D7F5 </color>
+</resources>
